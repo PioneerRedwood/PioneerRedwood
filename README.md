@@ -5,9 +5,7 @@
 - Concurrent programming
 - Backend architecture
 
-
 ## 🌱 I’m currently learning ...
-- Boost-asio
 
 ## 👯 I’m looking to collaborate on ...
 
