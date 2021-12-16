@@ -9,10 +9,6 @@ The Grogu is my favorite.
 - Backend architecture
 - Chrome Embedded Framework, CEF
 
-## 🔭 Experiences using ...
-- C++
-- Python
-- C#
 
 ## 🌹 My Socials
 - Contact: chrisredwood123@gmail.com
