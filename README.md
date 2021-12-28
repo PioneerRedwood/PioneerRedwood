@@ -5,7 +5,6 @@ The Grogu is my favorite.
 ## 👀 I’m interested in ...
 - Network programming
 - Concurrent programming
-- Cross-platform service
 - Backend architecture
 - Chrome Embedded Framework, CEF
 
