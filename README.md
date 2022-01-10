@@ -3,12 +3,9 @@
 The Grogu is my favorite.
 
 ## 👀 I’m interested in ...
-- Network programming
 - Concurrent programming
 - Backend architecture
 - Chrome Embedded Framework, CEF
-- Qt
-- boost library
 
 ## 🌹 My Socials
 - Contact: chrisredwood123@gmail.com
