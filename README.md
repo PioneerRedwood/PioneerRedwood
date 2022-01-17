@@ -6,6 +6,7 @@
 - Concurrent programming
 - Backend architecture
 - Chrome Embedded Framework, CEF
+- Game developing
 
 ## 🌹 My Socials
 - Contact: chrisredwood123@gmail.com
