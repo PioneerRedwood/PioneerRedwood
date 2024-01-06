@@ -1,5 +1,5 @@
 # Your Focus Determines Your Reality.
 
 Contact Me!
-- [GitHub Page](https://github.com/PioneerRedwood)
+- [GitHub Page](https://pioneerredwood.github.io/)
 - Email: chrisredwood123@gmail.com
